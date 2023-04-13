@@ -7,6 +7,7 @@
 #### 1. Enter a date range
 ![image](https://user-images.githubusercontent.com/66817336/231756581-0c1f0467-7e49-4eb1-a88a-32cd50b3055b.png)
 #### 2. Enter a PTT forum URL (choose the topic)
+![image](https://user-images.githubusercontent.com/66817336/231763816-3876008f-7961-4765-bfa9-07eb2a40fc6c.png)
 ![image](https://user-images.githubusercontent.com/66817336/231757088-e2b4e07f-45eb-44f9-bd62-dfce66df99a1.png)
 #### 3. run the cell, then artices information will be downloaded to the excel file.
 ![image](https://user-images.githubusercontent.com/66817336/231757260-d9a2f9f7-ccd4-4a78-bd5f-9c226fca79a4.png)
